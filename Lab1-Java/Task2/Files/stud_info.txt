@@ -1,0 +1,4 @@
+170101001,Aayush Patni,patni@iitg.ac.in,85,TA1
+170101035,Manan Gupta,manan@iitg.ac.in,100,CC
+170101021,Devaishi Tiwari,devaishi@iitg.ac.in,72,CC
+170101053,Shivam Bansal,shivam@iitg.ac.in,116,TA2
